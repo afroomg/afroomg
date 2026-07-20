@@ -19,9 +19,9 @@
     </td>
     <td width="50%" valign="top" align="center">
       <p align="center">
-        Ingeniero en Computación Cuántica especializado en <b>simulación de sistemas físicos cuánticos</b>,
-        actualmente en prácticas en la <b>Fundación Computaex</b> y cursando el <b>MSc en Computación Cuántica</b>
-        en la Universidad Antonio de Nebrija.
+        Quantum Computing Engineer specialized in <b>simulation of quantum physical systems</b>,
+        currently an intern at <b>Fundación Computaex</b> and pursuing an <b>MSc in Quantum Computing</b>
+        at Universidad Antonio de Nebrija.
       </p>
     </td>
   </tr>
@@ -29,7 +29,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/-%E2%9A%9B%EF%B8%8F%20Computaci%C3%B3n%20Cu%C3%A1ntica-6929C4?style=for-the-badge" alt="Quantum" />
+## <img src="https://img.shields.io/badge/-%E2%9A%9B%EF%B8%8F%20Quantum%20Computing-6929C4?style=for-the-badge" alt="Quantum" />
 
 <p align="center">
   <img src="svgs/qiskit.svg" width="72" height="72" alt="Qiskit"/>
@@ -37,9 +37,9 @@
   <img src="svgs/netsquid.svg" width="72" height="72" alt="NetSquid"/>
 </p>
 
-**Prácticas — Fundación Computaex (2026):** desarrollo de un simulador cuántico en Python con **NetSquid** para modelar centros de color NV y SnV, y diseño de arquitecturas distribuidas del **algoritmo de Deutsch** entre nodos cuánticos conectados por enlaces fotónicos.
+**Internship — Fundación Computaex (2026):** developing a quantum simulator in Python with **NetSquid** to model NV and SnV color centers, and designing distributed architectures of the **Deutsch algorithm** between quantum nodes connected via photonic links.
 
-**TFM — Quantum Smoothed Particle Hydrodynamics (Q-SPH):** algoritmo basado en *quantum walks* de tiempo continuo para simular dinámica de partículas fluidas, implementado y comparado en **Qiskit** frente a la simulación clásica equivalente.
+**Master's Thesis — Quantum Smoothed Particle Hydrodynamics (Q-SPH):** an algorithm based on continuous-time *quantum walks* to simulate fluid particle dynamics, implemented and benchmarked in **Qiskit** against an equivalent classical simulation.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Quantum_Error_Correction-6929C4?style=flat-square&logoColor=white" alt="QEC" />
@@ -47,28 +47,28 @@
   <img src="https://img.shields.io/badge/Quantum_Simulation-4B0082?style=flat-square&logoColor=white" alt="Simulation" />
 </p>
 
-## <img src="https://img.shields.io/badge/-%F0%9F%9B%A0%EF%B8%8F%20Infraestructura%20y%20Cloud-6929C4?style=for-the-badge" alt="Infra" />
+## <img src="https://img.shields.io/badge/-%F0%9F%9B%A0%EF%B8%8F%20Infrastructure%20%26%20Cloud-6929C4?style=for-the-badge" alt="Infra" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,docker,aws,gcp,firebase,github,latex&perline=7" alt="Infra Stack" />
 </p>
 
-## <img src="https://img.shields.io/badge/-%F0%9F%8F%86%20Proyectos%20y%20logros%20destacados-6929C4?style=for-the-badge" alt="Proyectos" />
+## <img src="https://img.shields.io/badge/-%F0%9F%8F%86%20Featured%20Projects-6929C4?style=for-the-badge" alt="Projects" />
 
-| Proyecto | Rol | Descripción | Stack |
+| Project | Role | Description | Stack |
 |---|---|---|---|
-| **TFG — Turbina Axial con IoT** | Ingeniero | Fabricación de turbina axial con monitorización IoT: CAD, CNC, impresión 3D, telemetría con Raspberry Pi y calibración de sensores. | ![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00B8A9?style=flat-square) |
-| **GlowUpy** | Lead Developer & Product Manager | Arquitectura full-stack, automatización de flujos de negocio, integración de APIs y despliegue de sistemas escalables. | ![API](https://img.shields.io/badge/API-FF6F61?style=flat-square) ![Cloud](https://img.shields.io/badge/Cloud-2496ED?style=flat-square) |
-| **Wazpi** | Product Manager & Developer | Automatización de procesamiento de documentos con OCR y CRM asistido por chatbot, despliegue seguro en la nube. | ![OCR](https://img.shields.io/badge/OCR-008000?style=flat-square) ![CRM](https://img.shields.io/badge/CRM-4A154B?style=flat-square) |
+| **Bachelor's Thesis — Axial Turbine with IoT** | Engineer | Manufacturing of an axial turbine with IoT monitoring: CAD, CNC, 3D printing, telemetry via Raspberry Pi and sensor calibration. | ![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00B8A9?style=flat-square) |
+| **GlowUpy** | Lead Developer & Product Manager | Full-stack architecture, business workflow automation, API integrations and deployment of scalable systems. | ![API](https://img.shields.io/badge/API-FF6F61?style=flat-square) ![Cloud](https://img.shields.io/badge/Cloud-2496ED?style=flat-square) |
+| **Wazpi** | Product Manager & Developer | Automation of document processing with OCR and a chatbot-assisted CRM, secure cloud deployment. | ![OCR](https://img.shields.io/badge/OCR-008000?style=flat-square) ![CRM](https://img.shields.io/badge/CRM-4A154B?style=flat-square) |
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Espa%C3%B1ol-Nativo-FF4500?style=flat-square&logoColor=white" alt="Español" />
+  <img src="https://img.shields.io/badge/Spanish-Native-FF4500?style=flat-square&logoColor=white" alt="Spanish" />
   &nbsp;
   <img src="https://img.shields.io/badge/English-B2-1E90FF?style=flat-square&logoColor=white" alt="English" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Portugu%C3%AAs-Intermedio-00C49A?style=flat-square&logoColor=white" alt="Português" />
+  <img src="https://img.shields.io/badge/Portuguese-Intermediate-00C49A?style=flat-square&logoColor=white" alt="Portuguese" />
 </p>
 
 <p align="center">
