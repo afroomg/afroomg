@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Snake animation](https://raw.githubusercontent.com/afroomg/afroomg/output/github-contribution-grid-snake-dark.svg)
 <!--
 **afroomg/afroomg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
