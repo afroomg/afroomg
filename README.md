@@ -27,10 +27,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://typing-svg.demolab.com?lines=Quantum+Computing+Engineer;Simulaci%C3%B3n+de+sistemas+f%C3%ADsicos+cu%C3%A1nticos;MSc+Quantum+Computing+@+Universidad+Antonio+de+Nebrija;Engenheiro+de+Computa%C3%A7%C3%A3o+Qu%C3%A2ntica&font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=6929C4&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=40" alt="Typing SVG" />
-</p>
-
 ---
 
 ## <img src="https://img.shields.io/badge/-%E2%9A%9B%EF%B8%8F%20Computaci%C3%B3n%20Cu%C3%A1ntica-6929C4?style=for-the-badge" alt="Quantum" />
