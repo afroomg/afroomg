@@ -2,30 +2,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e34a33,100:6929C4&height=120&section=header" width="100%" alt="banner"/>
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center" style="display:flex; align-items:center; gap:10px;">
-        <h1 align="center" style="margin:0;">Francesco Orizzonte</h1>
-      </p>
-      <p align="center">
-        <a href="https://francescoorizzonte.us" target="_blank">
-          <img src="https://img.shields.io/badge/francescoorizzonte.us-6929C4?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/>
-        </a>
-        <a href="https://linkedin.com/in/TU-USUARIO" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <p align="center">
-        Quantum Computing Engineer specialized in <b>simulation of quantum physical systems</b>,
-        currently an intern at <b>Fundación Computaex</b> and pursuing an <b>MSc in Quantum Computing</b>
-        at Universidad Antonio de Nebrija.
-      </p>
-    </td>
-  </tr>
-</table>
+<h3 align="center"><em>“I believe technology is only meaningful when it improves people's lives. Between bare hands and a qubit dance, I design solutions chasing the same thing: a smile, a life made quietly better.”</em></h3>
+
+<p align="center">
+  Quantum Computing Engineer specialized in <b>simulation of quantum physical systems</b>,
+  currently an intern at <b>Fundación Computaex</b> and pursuing an <b>MSc in Quantum Computing</b>
+  at Universidad Antonio de Nebrija.
+</p>
+
+<p align="center">
+  <a href="https://francescoorizzonte.us" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Personal_Web-6929C4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6929C4" alt="Personal Web"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/francescoorizzonte/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
