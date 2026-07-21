@@ -4,11 +4,6 @@
 
 <h3 align="center"><em>“I believe technology is only meaningful when it improves people's lives. Between bare hands and a qubit dance, I design solutions chasing the same thing: a smile, a life made quietly better.”</em></h3>
 
-<p align="center">
-  Quantum Computing Engineer specialized in <b>simulation of quantum physical systems</b>,
-  currently an intern at <b>Fundación Computaex</b> and pursuing an <b>MSc in Quantum Computing</b>
-  at Universidad Antonio de Nebrija.
-</p>
 
 <p align="center">
   <a href="https://francescoorizzonte.us" target="_blank">
